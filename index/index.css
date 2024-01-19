@@ -1,0 +1,438 @@
+.web-capture-21-11-2023-10557-w-icon {
+  position: absolute;
+  margin: 0 !important;
+  top: -26px;
+  left: -12px;
+  width: 161px;
+  height: 151px;
+  object-fit: cover;
+  z-index: 1;
+}
+.emc-blog-food-delivery-1-icon {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  display: none;
+}
+.login-register-child {
+  position: relative;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro);
+  width: 210px;
+  height: 62px;
+  display: none;
+}
+.log-in {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  z-index: 2;
+}
+.login-register,
+.login-register-item {
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro);
+}
+.login-register {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xs) 61px var(--padding-xs) 62px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  z-index: 1;
+}
+.login-register1:hover,
+.login-register:hover {
+  background-color: var(--color-silver);
+}
+.login-register-item {
+  position: relative;
+  width: 210px;
+  height: 62px;
+  display: none;
+}
+.register {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  height: 40px;
+  z-index: 2;
+}
+.login-register1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xs) 25px 10px 49px;
+  background-color: var(--color-gainsboro);
+  flex: 1;
+  border-radius: var(--br-21xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  z-index: 1;
+}
+.frame-from-kitchen,
+.frame-scoot-scoot {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-scoot-scoot {
+  flex: 1;
+  gap: 57px;
+}
+.frame-from-kitchen {
+  width: 583px;
+  padding: 0 53px;
+  box-sizing: border-box;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+}
+.web-capture-21-11-2023-10557-w-icon1 {
+  position: relative;
+  width: 255px;
+  height: 222px;
+  object-fit: cover;
+  z-index: 1;
+}
+.span {
+  color: var(--color-white);
+}
+.to-your-table {
+  color: #cfd1e9;
+}
+.from-kitchen-to-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 133.12%;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  height: 145px;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.frame-becomea-rider {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9px 0 0;
+  box-sizing: border-box;
+  min-width: 316px;
+  max-width: 100%;
+}
+.web-capture-21-11-2023-10557-w-parent {
+  width: 761px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-xl);
+  box-sizing: border-box;
+  row-gap: 20px;
+}
+.frame-content,
+.frame-login-register,
+.frame-logo,
+.web-capture-21-11-2023-10557-w-parent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-content {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 18px 2px 264px;
+  box-sizing: border-box;
+  gap: 77px;
+  background-image: url(./public/emcblogfooddelivery-1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.frame-login-register,
+.frame-logo {
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frame-login-register {
+  flex: 1;
+  position: relative;
+}
+.frame-logo {
+  align-self: stretch;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 72px;
+  color: #b5dde9;
+  font-family: var(--font-crimson-pro);
+}
+.scootscoot-1-icon {
+  position: relative;
+  width: 229px;
+  height: 229px;
+  object-fit: cover;
+}
+.frame-gettheapp {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 19px;
+}
+.become-a-rider,
+.blank-line {
+  margin: 0;
+}
+.as-a-delivery-driver-youll-m {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.blank-line1 {
+  font-size: var(--font-size-13xl);
+}
+.starting-earning {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.blank-line2 {
+  margin: 0;
+}
+.become-a-rider-container {
+  align-self: stretch;
+  position: relative;
+  display: inline-block;
+  height: 239px;
+  flex-shrink: 0;
+}
+.frame-experience {
+  width: 311px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px;
+  font-size: var(--font-size-13xl);
+}
+.storefront-1-icon {
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 229px;
+  object-fit: cover;
+}
+.frame-storefront {
+  width: 242px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 23px 0 0;
+  box-sizing: border-box;
+}
+.blank-line3 {
+  margin: 0;
+}
+.become-a-partner {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+}
+.blank-line4,
+.blank-line5,
+.blank-line6,
+.grow-your-business {
+  margin: 0;
+}
+.become-a-partner-container,
+.starting-earning1 {
+  position: relative;
+  display: inline-block;
+  width: 290px;
+}
+.starting-earning1 {
+  width: 222px;
+  z-index: 1;
+}
+.text-partner {
+  width: 332px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 47px;
+  max-width: 100%;
+}
+.picture1-1-icon {
+  position: relative;
+  width: 227px;
+  height: 229px;
+  object-fit: cover;
+}
+.blank-line7 {
+  margin: 0;
+}
+.get-the-best-experience {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+}
+.blank-line8,
+.experience-the-best {
+  margin: 0;
+}
+.get-the-app,
+.get-the-best-container {
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.get-the-best-container {
+  align-self: stretch;
+  height: 166px;
+}
+.get-the-app {
+  width: 176px;
+  height: 50px;
+}
+.picture,
+.text-getthebest {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.text-getthebest {
+  align-self: stretch;
+  gap: 9px;
+}
+.picture {
+  width: 277px;
+  gap: 16px;
+}
+.picture-logo {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  max-width: 100%;
+}
+.desktop-4,
+.frame-earning {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.frame-earning {
+  width: 1190px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 56px 0 var(--padding-xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
+.desktop-4 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0 491px;
+  gap: 146px;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .frame-earning {
+    padding-right: 28px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .from-kitchen-to-container {
+    font-size: 58px;
+    line-height: 77px;
+  }
+  .frame-content {
+    gap: 38px;
+  }
+  .become-a-rider-container {
+    font-size: 26px;
+  }
+  .picture-logo {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-scoot-scoot {
+    gap: 28px;
+  }
+  .frame-from-kitchen {
+    padding-left: var(--padding-7xl);
+    padding-right: var(--padding-7xl);
+    box-sizing: border-box;
+  }
+  .web-capture-21-11-2023-10557-w-icon1 {
+    flex: 1;
+  }
+  .web-capture-21-11-2023-10557-w-parent {
+    flex-wrap: wrap;
+  }
+  .frame-content {
+    padding-top: var(--padding-xl);
+    padding-bottom: 172px;
+    box-sizing: border-box;
+  }
+  .desktop-4 {
+    gap: 73px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .from-kitchen-to-container {
+    font-size: 43px;
+    line-height: 58px;
+  }
+  .frame-content {
+    gap: 19px;
+  }
+  .become-a-rider-container {
+    font-size: 19px;
+  }
+  .become-a-partner-container,
+  .starting-earning1 {
+    font-size: var(--font-size-base);
+  }
+  .text-partner {
+    gap: 23px;
+  }
+  .get-the-app,
+  .get-the-best-container {
+    font-size: var(--font-size-base);
+  }
+  .desktop-4 {
+    gap: 36px;
+  }
+}
