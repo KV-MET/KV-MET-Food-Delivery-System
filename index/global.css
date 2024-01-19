@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-crimson-pro: "Crimson Pro";
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gainsboro: #d9d9d9;
+  --color-silver: #bfbfbf;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-7xl: 26px;
+  --padding-xs: 12px;
+
+  /* Border radiuses */
+  --br-21xl: 40px;
+}
